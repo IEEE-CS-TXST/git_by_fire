@@ -9,4 +9,5 @@ while divisors < 500:
   				divisors += 1
   				print(triNumber)
   				counter += 1
-      
+
+#### MY BAD GUYS!!!!
