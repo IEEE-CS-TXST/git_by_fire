@@ -1,7 +1,7 @@
 ###FIX ME!!!###
 counter = 1
-divisor = 0
-while divisor < 500:
+divisors = 0
+while divisors < 500:
   #Something got deleted here.
   triNumber = sum(range(1, counter + 1))
   for divisor in range(1, triNumber + 1):
